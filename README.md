@@ -1,3 +1,4 @@
+# This repository is no longer maintained
 # HAProxy Exporter for Prometheus
 
 This is a simple server that periodically scrapes HAProxy stats and exports them via HTTP/JSON for Prometheus
